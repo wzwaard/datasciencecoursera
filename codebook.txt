@@ -61,7 +61,6 @@ tBodyGyroJerkMean
 
 #CODE BOOK
 
-##TECHNICAL DESCRIPTION
 Subject                    : int
 ActivityName               : Factor w/ 6 levels "LAYING","SITTING",..: 1 1 1 1 1 1 2 2 2 2 ...
 tBodyAcc-mean()-X          : num
